@@ -1,4 +1,4 @@
-package org.ac.cst8277.Joyce.Samuel.feed_service.FeedService;
+package org.ac.cst8277.Joyce.Samuel.feed_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
